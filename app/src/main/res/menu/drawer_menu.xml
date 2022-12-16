@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:title="Home" />
+    <item
+        android:id="@+id/meters"
+        android:title="Meters" />
+    <item
+        android:id="@+id/transformer"
+        android:title="Transformer" />
+    <item
+        android:id="@+id/htBreakers"
+        android:title="HT Breakers" />
+
+    <item
+        android:id="@+id/ltBreakers"
+        android:title="LT Breakers" />
+    <item
+        android:id="@+id/poles"
+        android:title="Towers/poles" />
+    <item
+        android:id="@+id/all"
+        android:title="All" />
+    <item
+        android:id="@+id/logout"
+        android:title="Logout" />
+
+</menu>

@@ -1,0 +1,592 @@
+<resources>
+    <string name="app_name">Inventory Manangement System</string>
+    <string name="SelectYourZone">Select Your Zone</string>
+    <string name="Patna">Patna</string>
+    <string name="Bhagalpur">Bhagalpur</string>
+    <string name="Muzzaffarpur">Muzzaffarpur</string>
+    <string name="SelectYourCircle">Select Your Circle</string>
+    <string name="PatnaEast">Patna(East)</string>
+    <string name="PatnaWest">Patna(West)</string>
+    <string name="DehriOnSone">Dehri On Sone</string>
+    <string name="Bhojpur">Bhojpur</string>
+    <string name="Gaya">Gaya</string>
+    <string name="Biharshariff">Biharshariff</string>
+    <string name="Begusarai">Begusarai</string>
+    <string name="Purnia">Purnia</string>
+    <string name="Vaishali">Vaishali</string>
+    <string name="Darbhanga">Darbhanga</string>
+    <string name="Motihari">Motihari</string>
+    <string name="Chapra">Chapra</string>
+    <string name="Madhepura">Madhepura</string>
+    <string name="PatnaCivil">Patna Civil</string>
+    <string name="DehriOnSoneCivil">Dehri On Sone</string>
+    <string name="GayaCivil">Gaya Civil</string>
+    <string name="BhagalpurCivil">Bhagalpur Civil</string>
+    <string name="PurniaCivil">Purnia Civil</string>
+    <string name="MuzzaffarpurCivil">Muzzaffarpur Civil</string>
+    <string name="DarbhangaCivil">Darbhanga Civil</string>
+    <string name="ChapraCivil">Chapra Civil</string>
+    <string name="MadhepuraCivil">Madhepura Civil</string>
+    <string name="SelectYourDivision">Select Your Division</string>
+    <string name="Barh">Barh</string>
+    <string name="PatnaCentral">Patna(Central)</string>
+    <string name="Aurangabad">Aurangabad</string>
+    <string name="Arrah">Arrah</string>
+    <string name="Mohania">Mohania</string>
+    <string name="Jehanabad">Jehanabad</string>
+    <string name="Nawada">Nawada</string>
+    <string name="Munger">Munger</string>
+    <string name="Kishanganj">Kishanganj</string>
+    <string name="Sitamarhi">Sitamarhi</string>
+    <string name="Hajipur">Hajipur</string>
+    <string name="Samastipur">Samastipur</string>
+    <string name="Madhubani">Madhubani</string>
+    <string name="Bettiah">Bettiah</string>
+    <string name="Gopalganj">Gopalganj</string>
+    <string name="Birpur">Birpur</string>
+    <string name="KhagaulCivil">Khagaul Civil</string>
+    <string name="BiharshariffCivil">Biharshariff Civil</string>
+    <string name="ArrahCivil">Arrah Civil</string>
+    <string name="JehanabadCivil">Jehanabad Civil</string>
+    <string name="BegusaraiCivil">Begusarai Civil</string>
+    <string name="MungerCivil">Munger Civil</string>
+    <string name="BirpurCivil">Birpur Civil</string>
+    <string name="GopalganjCivil">Gopalganj Civil</string>
+    <string name="MotihariCivil">Motihari Civil</string>
+    <string name="SamastipurCivil">Samastipur Civil</string>
+    <string name="HajipurCivil">Hajipur Civil</string>
+    <string name="SitamarhiCivil">Sitamarhi Civil</string>
+    <string name="KishanganjCivil">Kishanganj Civil</string>
+    <string name="Katra">Katra</string>
+    <string name="Gaurichak">Gaurichak</string>
+    <string name="Masurhi">Masurhi</string>
+    <string name="Gaighat">Gaighat</string>
+    <string name="Mithapur">Mithapur</string>
+    <string name="BarhOld">Barh(Old)</string>
+    <string name="Hathidah">Hathidah</string>
+    <string name="Fatuha">Fatuha</string>
+    <string name="Bakhtiarpur">Bakhtiarpur</string>
+    <string name="BihtaOld">Bihta(Old)</string>
+    <string name="BihtaNew">Bihta(New)</string>
+    <string name="Khagaul">Khagaul</string>
+    <string name="Palinganj">Palinganj</string>
+    <string name="Jakkanpur">Jakkanpur</string>
+    <string name="Karbigahiya">Karbigahiya</string>
+    <string name="BoardcolonyUC">Board Colony(U/C)</string>
+    <string name="DighaOld">Digha(Old)</string>
+    <string name="DighaNew">Digha(New)</string>
+    <string name="Banjari">Banjari</string>
+    <string name="Bikramganj">Bikramganj</string>
+    <string name="Sasaram">Sasaram</string>
+    <string name="KerpaUC">Kerpa(U/C)</string>
+    <string name="Kochas">Kochas</string>
+    <string name="Goh">Goh</string>
+    <string name="Sonenagar">Sonenagar</string>
+    <string name="Rafiganj">Rafiganj</string>
+    <string name="Buxar">Buxar</string>
+    <string name="Jagdishpur">Jagdishpur</string>
+    <string name="Piro">Piro</string>
+    <string name="Dumrao">Dumrao</string>
+    <string name="KaramnasaUC">Karamnasa(U/C)</string>
+    <string name="Supaul">132 Supaul</string>
+    <string name="Kataiya">Kataiya</string>
+    <string name="Nirmali">Nirmali</string>
+    <string name="Triveniganj">Triveniganj</string>
+    <string name="RaghopurNew">Raghopur(New)</string>
+    <string name="SimriBakhtiarpur">Simri Bakhtiarpur</string>
+    <string name="UdaKishunganj">Uda Kishunganj</string>
+    <string name="Saharsa">Saharsa</string>
+    <string name="Sonebarsa">Sonebarsa</string>
+    <string name="Hatuha">Hatuha</string>
+    <string name="Siwan">Siwan</string>
+    <string name="SiwanNew">Siwan(New)</string>
+    <string name="Maharajganj">Maharajganj</string>
+    <string name="Sheetalpur">Sheetalpur</string>
+    <string name="Musrakh">Musrakh</string>
+    <string name="Ekma">Ekma</string>
+    <string name="Warisaliganj">Warisaliganj</string>
+    <string name="Rajgir">Rajgir</string>
+    <string name="Sheikhpura">Sheikhpura</string>
+    <string name="Sabour">Sabour</string>
+    <string name="Sultanganj">Sultanganj</string>
+    <string name="Kahalgaon">Kahalgaon</string>
+    <string name="Nathnagar">Nathnagar</string>
+    <string name="Banka">Banka</string>
+    <string name="BankaNew">Banka(New)</string>
+    <string name="Naugachia">Naugachia</string>
+    <string name="Khagaria1">132 Khagaria</string>
+    <string name="Khagaria2">220 Khagaria</string>
+    <string name="Karamnasa">Karamnasa</string>
+    <string name="Ramgarh">Ramgarh</string>
+    <string name="Bhabua">Bhabua</string>
+    <string name="Kudra">Kudra</string>
+    <string name="Pusauli">Pusauli</string>
+    <string name="Bodhgaya">Bodhgaya</string>
+    <string name="Sherghati">Sherghati</string>
+    <string name="Wazirganj">Wazirganj</string>
+    <string name="Imamganj">Imamganj</string>
+    <string name="Chandauti">Chandauti</string>
+    <string name="Belaganj">Belaganj</string>
+    <string name="Tekari">Tekari</string>
+    <string name="Tehta">Tehta</string>
+    <string name="Huasganj">Huasganj</string>
+    <string name="Ataula">Ataula</string>
+    <string name="Nalanda">Nalanda</string>
+    <string name="Ekangarsarai">Ekangarsarai</string>
+    <string name="Harnaut">Harnaut</string>
+    <string name="Bariphari">Bariphari</string>
+    <string name="Ashtwan">Ashtwan</string>
+    <string name="Balia">Balia</string>
+    <string name="Manjhaul">Manjhaul</string>
+    <string name="Teghra">Teghra</string>
+    <string name="Jamalpur">Jamalpur</string>
+    <string name="Tarapur">Tarapur</string>
+    <string name="Jamui">Jamui</string>
+    <string name="JamuiNew">Jamui(New)</string>
+    <string name="Lakhisarai">Lakhisarai</string>
+    <string name="Dhamadaha">Dhamadaha</string>
+    <string name="Banmankhi">Banmankhi</string>
+    <string name="Barsoi">Barsoi</string>
+    <string name="Manihari">Manihari</string>
+    <string name="Korha">Korha</string>
+    <string name="Katihar">Katihar</string>
+    <string name="Baisi">Baisi</string>
+    <string name="Kishanganj1">220 Kishanganj</string>
+    <string name="Kishanganj2">132 Kishanganj</string>
+    <string name="Thakurganj">Thakurganj</string>
+    <string name="Forbesganj">Forbesganj</string>
+    <string name="Araria">Araria</string>
+    <string name="Palasi">Palasi</string>
+    <string name="Hajipur1">220 Hajipur</string>
+    <string name="Hajipur2">132 Hajipur</string>
+    <string name="Samastipur220">Samastipur 220</string>
+    <string name="Darbhanga1">220 Darbhanga</string>
+    <string name="Darbhanga2">132 Darbhanga</string>
+    <string name="SKMCH">SKMCH</string>
+    <string name="Motipur">Motipur</string>
+    <string name="Musahari">Musahari</string>
+    <string name="RunniSaidpur">RunniSaidpur</string>
+    <string name="Belsand">Belsand</string>
+    <string name="Purpi">Purpi</string>
+    <string name="Sheohar">Sheohar</string>
+    <string name="Jandaha">Jandaha</string>
+    <string name="Mahnar">Mahnar</string>
+    <string name="Garoul">Garoul</string>
+    <string name="Shahpurpatori">Shahpurpatori</string>
+    <string name="Dalsinghsarai">Dalsinghsarai</string>
+    <string name="Rosera">Rosera</string>
+    <string name="Tajpur">Tajpur</string>
+    <string name="Gangwara">Gangwara</string>
+    <string name="Kushewarsthan">Kushewarsthan</string>
+    <string name="Benipur">Benipur</string>
+    <string name="Pandaul">Pandaul</string>
+    <string name="Jainagar">Jainagar</string>
+    <string name="Benipatti">Benipatti</string>
+    <string name="Phulparas">Phulparas</string>
+    <string name="Jahnjharpur">Jahnjharpur</string>
+    <string name="Laukahi">Laukahi</string>
+    <string name="Dhaka">Dhaka</string>
+    <string name="Pakridayal">Pakridayal</string>
+    <string name="Chakiya">Chakiya</string>
+    <string name="RaxaulNew">Raxau(New)</string>
+    <string name="Areraj">Areraj</string>
+    <string name="Raxaul">Raxaul</string>
+    <string name="Ramnagar">Ramnagar</string>
+    <string name="Narkatiyaganj">Narkatiyaganj</string>
+    <string name="Thakraha">Thakraha</string>
+    <string name="HydelValmikinagar">HydelValmikinagar</string>
+    <string-array name="zone">
+        <item>@string/SelectYourZone</item>
+        <item>@string/Patna</item>
+        <item>@string/Bhagalpur</item>
+        <item>@string/Muzzaffarpur</item>
+    </string-array>
+    <string-array name="Circle">
+        <item>@string/SelectYourCircle</item>
+    </string-array>
+    <string-array name="patna_circle">
+        <item>@string/PatnaEast</item>
+        <item>@string/PatnaWest</item>
+        <item>@string/DehriOnSone</item>
+        <item>@string/Bhojpur</item>
+        <item>@string/Gaya</item>
+        <item>@string/Biharshariff</item>
+    </string-array>
+    <string-array name="bhagalpur_circle">
+        <item>@string/Bhagalpur</item>
+        <item>@string/Begusarai</item>
+        <item>@string/Purnia</item>
+    </string-array>
+    <string-array name="muzzaffarpur_circle">
+        <item>@string/Muzzaffarpur</item>
+        <item>@string/Vaishali</item>
+        <item>@string/Darbhanga</item>
+        <item>@string/Motihari</item>
+        <item>@string/Chapra</item>
+        <item>@string/Madhepura</item>
+        <item>@string/PatnaCivil</item>
+        <item> @string/DehriOnSoneCivil</item>
+        <item> @string/GayaCivil</item>
+        <item> @string/BhagalpurCivil</item>
+        <item>@string/PurniaCivil </item>
+        <item>@string/MuzzaffarpurCivil</item>
+        <item>@string/DarbhangaCivil </item>
+        <item> @string/ChapraCivil</item>
+        <item>@string/MadhepuraCivil</item>
+    </string-array>
+    <string-array name="Division">
+        <item>@string/SelectYourDivision</item>
+    </string-array>
+    <string-array name="patna_east_division">
+        <item>@string/PatnaEast</item>
+        <item>@string/Barh</item>
+    </string-array>
+    <string-array name="patna_west_division">
+        <item>@string/PatnaWest</item>
+        <item>@string/PatnaCentral</item>
+    </string-array>
+    <string-array name="dehri_on_sone_division">
+        <item>@string/DehriOnSone</item>
+        <item>@string/Aurangabad</item>
+    </string-array>
+    <string-array name="bhojpur_division">
+        <item>@string/Arrah</item>
+        <item>@string/Mohania</item>
+    </string-array>
+    <string-array name="gaya_division">
+        <item>@string/Gaya</item>
+        <item>@string/Jehanabad</item>
+    </string-array>
+    <string-array name="biharshariff_division">
+        <item>@string/Biharshariff</item>
+        <item>@string/Nawada</item>
+    </string-array>
+    <string-array name="bhagalpur_division">
+        <item>@string/Bhagalpur</item>
+    </string-array>
+    <string-array name="begusarai_division">
+        <item>@string/Begusarai</item>
+        <item>@string/Munger</item>
+    </string-array>
+    <string-array name="purnia_division">
+        <item>@string/Purnia</item>
+        <item>@string/Kishanganj</item>
+    </string-array>
+    <string-array name="muzzaffarpur_division">
+        <item>@string/Muzzaffarpur</item>
+        <item>@string/Sitamarhi</item>
+    </string-array>
+    <string-array name="vaishali_division">
+        <item>@string/Hajipur</item>
+        <item>@string/Samastipur</item>
+    </string-array>
+    <string-array name="darbhanga_division">
+        <item>@string/Darbhanga</item>
+        <item>@string/Madhubani</item>
+    </string-array>
+    <string-array name="motihari_division">
+        <item>@string/Motihari</item>
+        <item>@string/Bettiah</item>
+    </string-array>
+    <string-array name="chapra_division">
+        <item>@string/Chapra</item>
+        <item>@string/Gopalganj</item>
+    </string-array>
+    <string-array name="madhepura_division">
+        <item>@string/Madhepura</item>
+        <item>@string/Birpur</item>
+    </string-array>
+    <string-array name="patna_civil_division">
+        <item>@string/PatnaCivil</item>
+        <item>@string/KhagaulCivil</item>
+        <item>@string/BiharshariffCivil</item>
+    </string-array>
+    <string-array name="dehri_on_sone_civil_division">
+        <item>@string/DehriOnSoneCivil</item>
+        <item>@string/ArrahCivil</item>
+    </string-array>
+    <string-array name="gaya_civil_division">
+        <item>@string/JehanabadCivil</item>
+    </string-array>
+    <string-array name="bhagalpur_civil_division">
+        <item>@string/BhagalpurCivil</item>
+        <item>@string/BegusaraiCivil</item>
+        <item>@string/MungerCivil</item>
+    </string-array>
+    <string-array name="purnia_civil_division">
+        <item>@string/PurniaCivil</item>
+        <item>@string/KishanganjCivil</item>
+    </string-array>
+    <string-array name="muzzaffarpur_civil_division">
+        <item>@string/MuzzaffarpurCivil</item>
+        <item>@string/SitamarhiCivil</item>
+        <item>@string/HajipurCivil</item>
+    </string-array>
+    <string-array name="darbhanga_civil_division">
+        <item>@string/DarbhangaCivil</item>
+        <item>@string/SamastipurCivil</item>
+        <item>@string/MotihariCivil</item>
+    </string-array>
+    <string-array name="chapra_civil_division">
+        <item>@string/ChapraCivil</item>
+        <item>@string/GopalganjCivil</item>
+    </string-array>
+    <string-array name="madhepura_civil_division">
+        <item>@string/MadhepuraCivil</item>
+        <item>@string/BirpurCivil</item>
+    </string-array>
+    <string-array name="GSS">
+        <item>Select Your GSS</item>
+    </string-array>
+    <string-array name="patna_east_gss">
+        <item>@string/Katra</item>
+        <item>@string/Gaurichak</item>
+        <item>@string/Masurhi</item>
+        <item>@string/Gaighat</item>
+        <item>@string/Mithapur</item>
+    </string-array>
+    <string-array name="barh_gss">
+        <item>@string/BarhOld</item>
+        <item>@string/Hathidah</item>
+        <item>@string/Fatuha</item>
+        <item>@string/Bakhtiarpur</item>
+    </string-array>
+    <string-array name="patna_west_gss">
+        <item>@string/BihtaOld</item>
+        <item>@string/BihtaNew</item>
+        <item>@string/Khagaul</item>
+        <item>@string/Palinganj</item>
+    </string-array>
+    <string-array name="patna_central_gss">
+        <item>@string/Jakkanpur</item>
+        <item>@string/Karbigahiya</item>
+        <item>@string/BoardcolonyUC</item>
+        <item>@string/DighaOld</item>
+        <item>@string/DighaNew</item>
+    </string-array>
+    <string-array name="dehri_on_sone_gss">
+        <item>@string/DehriOnSone</item>
+        <item>@string/Banjari</item>
+        <item>@string/Bikramganj</item>
+        <item>@string/Sasaram</item>
+        <item>@string/KerpaUC</item>
+        <item>@string/Kochas</item>
+    </string-array>
+    <string-array name="aurangabad_gss">
+        <item>@string/Aurangabad</item>
+        <item>@string/Goh</item>
+        <item>@string/Sonenagar</item>
+        <item>@string/Sonenagar</item>
+        <item>@string/Rafiganj</item>
+    </string-array>
+    <string-array name="arrah_gss">
+        <item>@string/Arrah</item>
+        <item>@string/Buxar</item>
+        <item>@string/Jagdishpur</item>
+        <item>@string/Piro</item>
+        <item>@string/Dumrao</item>
+    </string-array>
+    <string-array name="mohania_gss">
+        <item>@string/Karamnasa</item>
+        <item>@string/KaramnasaUC</item>
+        <item>@string/Ramgarh</item>
+        <item>@string/Bhabua</item>
+        <item>@string/Kudra</item>
+        <item>@string/Pusauli</item>
+        <item>@string/Mohania</item>
+    </string-array>
+    <string-array name="gaya_gss">
+        <item>@string/Bodhgaya</item>
+        <item>@string/Sherghati</item>
+        <item>@string/Wazirganj</item>
+        <item>@string/Imamganj</item>
+        <item>@string/Chandauti</item>
+        <item>@string/Belaganj</item>
+        <item>@string/Tekari</item>
+    </string-array>
+    <string-array name="jehanabad_gss">
+        <item>@string/Jehanabad</item>
+        <item>@string/Tehta</item>
+        <item>@string/Huasganj</item>
+        <item>@string/Ataula</item>
+
+    </string-array>
+    <string-array name="biharshariff_gss">
+        <item>@string/Biharshariff</item>
+        <item>@string/Nalanda</item>
+        <item>@string/Ekangarsarai</item>
+        <item>@string/Harnaut</item>
+        <item>@string/Bariphari</item>
+        <item>@string/Ashtwan</item>
+    </string-array>
+    <string-array name="nawada_gss">
+        <item>@string/Nawada</item>
+        <item>@string/Warisaliganj</item>
+        <item>@string/Rajgir</item>
+        <item>@string/Sheikhpura</item>
+    </string-array>
+    <string-array name="bhagalpur_gss">
+        <item>@string/Sabour</item>
+        <item>@string/Sultanganj</item>
+        <item>@string/Kahalgaon</item>
+        <item>@string/Nathnagar</item>
+        <item>@string/Banka</item>
+        <item>@string/BankaNew</item>
+        <item>@string/Naugachia</item>
+    </string-array>
+    <string-array name="begusrai_gss">
+        <item>@string/Begusarai</item>
+        <item>@string/Balia</item>
+        <item>@string/Manjhaul</item>
+        <item>@string/Teghra</item>
+        <item>@string/Khagaria1</item>
+        <item>@string/Khagaria2</item>
+        <item>Bakhri</item>
+    </string-array>
+    <string-array name="munger_gss">
+        <item>@string/Jamalpur</item>
+        <item>@string/Tarapur</item>
+        <item>@string/Jamui</item>
+        <item>@string/JamuiNew</item>
+        <item>@string/Lakhisarai</item>
+    </string-array>
+    <string-array name="purnia_gss">
+        <item>@string/Purnia</item>
+        <item>@string/Dhamadaha</item>
+        <item>@string/Banmankhi</item>
+        <item>@string/Barsoi</item>
+        <item>@string/Manihari</item>
+        <item>@string/Korha</item>
+        <item>@string/Katihar</item>
+        <item>@string/Baisi</item>
+    </string-array>
+    <string-array name="kishanganj_gss">
+        <item>@string/Kishanganj1</item>
+        <item>@string/Kishanganj2</item>
+        <item>@string/Thakurganj</item>
+        <item>@string/Forbesganj</item>
+        <item>@string/Araria</item>
+        <item>@string/Palasi</item>
+    </string-array>
+    <string-array name="muzzaffar_gss">
+        <item>@string/Muzzaffarpur</item>
+        <item>@string/SKMCH</item>
+        <item>@string/Motipur</item>
+        <item>@string/Musahari</item>
+    </string-array>
+    <string-array name="sitamarhi_gss">
+        <item>@string/Sitamarhi</item>
+        <item>@string/RunniSaidpur</item>
+        <item>@string/Belsand</item>
+        <item>@string/Purpi</item>
+        <item>@string/Sheohar</item>
+    </string-array>
+    <string-array name="hajipur_gss">
+        <item>@string/Hajipur1</item>
+        <item>@string/Hajipur2</item>
+        <item>@string/Vaishali</item>
+        <item>@string/Jandaha</item>
+        <item>@string/Mahnar</item>
+        <item>@string/Garoul</item>
+    </string-array>
+    <string-array name="samastipur_gss">
+        <item>@string/Samastipur220</item>
+        <item>@string/Samastipur</item>
+        <item>@string/Shahpurpatori</item>
+        <item>@string/Dalsinghsarai</item>
+        <item>@string/Rosera</item>
+        <item>@string/Tajpur</item>
+    </string-array>
+    <string-array name="darbhanga_gss">
+        <item>@string/Darbhanga1</item>
+        <item>@string/Darbhanga2</item>
+        <item>@string/Gangwara</item>
+        <item>@string/Kushewarsthan</item>
+        <item>@string/Benipur</item>
+    </string-array>
+    <string-array name="madhubani_gss">
+        <item>@string/Madhubani</item>
+        <item>@string/Pandaul</item>
+        <item>@string/Jainagar</item>
+        <item>@string/Benipatti</item>
+        <item>@string/Phulparas</item>
+        <item>@string/Jahnjharpur</item>
+        <item>@string/Laukahi</item>
+
+    </string-array>
+    <string-array name="motihari_gss">
+        <item>@string/Motihari</item>
+        <item>@string/Dhaka</item>
+        <item>@string/Pakridayal</item>
+        <item>@string/Chakiya</item>
+        <item>@string/RaxaulNew</item>
+        <item>@string/Areraj</item>
+        <item>@string/Raxaul</item>
+    </string-array>
+    <string-array name="bettiah_gss">
+        <item>@string/Bettiah</item>
+        <item>@string/Ramnagar</item>
+        <item>@string/Narkatiyaganj</item>
+        <item>@string/Thakraha</item>
+        <item>@string/HydelValmikinagar</item>
+    </string-array>
+    <string-array name="chapra_gss">
+        <item>@string/Chapra</item>
+        <item>@string/Sheetalpur</item>
+        <item>@string/Musrakh</item>
+        <item>@string/Ekma</item>
+    </string-array>
+    <string-array name="gopalganj_gss">
+        <item>@string/Gopalganj</item>
+        <item>@string/Hatuha</item>
+        <item>@string/Siwan</item>
+        <item>@string/SiwanNew</item>
+        <item>@string/Maharajganj</item>
+    </string-array>
+    <string-array name="madhepura_gss">
+        <item>@string/Madhepura</item>
+        <item>@string/UdaKishunganj</item>
+        <item>@string/Saharsa</item>
+        <item>@string/Sonebarsa</item>
+        <item>@string/SimriBakhtiarpur</item>
+    </string-array>
+    <string-array name="birpur_gss">
+        <item>@string/RaghopurNew</item>
+        <item>@string/Supaul</item>
+        <item>@string/Kataiya</item>
+        <item>@string/Nirmali</item>
+        <item>@string/Triveniganj</item>
+    </string-array>
+    <string name="title_activity_navigation_drawer">NavigationDrawerActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="Menu">Menu</string>
+    <string name="Home">Home</string>
+    <string name="Meters">Meters</string>
+    <string name="Transformers">Transformers</string>
+    <string name="HTBreaker">HT Breaker</string>
+    <string name="LTBreaker">LT Breaker</string>
+    <string name="TowersOrPoles">Towers or Poles</string>
+    <string name="All">All</string>
+    <string name="Logout">Logout</string>
+    <string name="text">text</string>
+    <string name="save">SAVE</string>
+    <string name="reset">RESET</string>
+    <string name="type1">Type 1</string>
+    <string name="capacity">Capacity</string>
+    <string name="type">Type</string>
+    <string name="serial_number">Serial Number</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+
+</resources>
